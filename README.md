@@ -1,6 +1,4 @@
 [![MasterHead](https://www.knacksystems.com/hubfs/sap%20cloud%20platform.png)]
-Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mahsun</h1>
 <h3 align="center">A passionate ABAP developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/10437/course_10437_image.jpg?v=1.0">
